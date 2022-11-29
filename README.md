@@ -4,4 +4,4 @@ Fail, Fail, and Fail Again
 
 [Who am I ?](https://lionelsy.github.io/)
 
-![Github Stat](https://github-readme-stats.vercel.app/api?username=lionelsy)
+![Github Stat](https://github-readme-stats.vercel.app/api?username=Lionelsy)
