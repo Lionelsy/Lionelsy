@@ -8,5 +8,5 @@ Fail, Fail, and Fail Again
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lionelsy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=merko" /> 
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lionelsy&hide_title=true&hide_border=true?hide=jupyter&theme=merko&layout=compact" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lionelsy&hide_title=true&hide_border=true&hide=jupyter%20notebook&theme=merko&layout=compact" /> 
 </a>
